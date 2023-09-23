@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(205, 255, 251);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2.0em;
+}
+
+header{
+    background-color: rgb(255, 153, 57);
+    margin: 0;
+    padding: 10px;
+}
+
+section, footer {
+    margin: 40px;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+h3 {
+    background-color: rgb(255, 153, 57);
+    color: white;
+    margin: 0px;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+
+.carousel-caption h5 {
+    font-size: 60px;
+    text-shadow: 2px 2px 2px black;
+    color: rgb(255, 255, 255);
+}
+
+  
